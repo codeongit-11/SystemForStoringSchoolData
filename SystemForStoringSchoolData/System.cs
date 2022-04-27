@@ -11,10 +11,10 @@ namespace SystemForStoringSchoolData
 
             List<Student> students = new List<Student>();
             List<Subject> subjects = new List<Subject>();
-            Student s1 = new Student() { Name = "Ruchika", ClassAndSection = "IV C" };
-            Student s2 = new Student() { Name = "Prateek", ClassAndSection = "XII A" };
-            Student s3 = new Student() { Name = "Pragya", ClassAndSection = "XI D" };
-            Student s4 = new Student() { Name = "Mayank", ClassAndSection = "V B" };
+            Student s1 = new Student() { Name = "Shreyaa", ClassAndSection = "IV C" };
+            Student s2 = new Student() { Name = "Abhishek", ClassAndSection = "XII A" };
+            Student s3 = new Student() { Name = "Sharanya", ClassAndSection = "XI D" };
+            Student s4 = new Student() { Name = "Ritika", ClassAndSection = "V B" };
             Student s5 = new Student() { Name = "Nidhi", ClassAndSection = "XI C" };
             Student s6 = new Student() { Name = "Pritika", ClassAndSection = "XI D" };
             students.Add(s1); students.Add(s2); students.Add(s3); students.Add(s4); students.Add(s5); students.Add(s6);
