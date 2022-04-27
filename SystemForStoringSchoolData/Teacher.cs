@@ -12,7 +12,7 @@ namespace SystemForStoringSchoolData
 
         public virtual string GetInfo()
         {
-            return ("Name:" + this.Name + " Class and Section:" + this.ClassAndSection);
+            return ("Name:" +this.Name+" Class and Section:" + this.ClassAndSection);
         }
 
     }

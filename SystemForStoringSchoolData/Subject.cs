@@ -11,7 +11,7 @@ namespace SystemForStoringSchoolData
         public Teacher Teacher;
         public override string GetInfo()
         {
-            return ("Name:" + this.Name + " Class and Section:" + this.ClassAndSection + " Subject Name: " + this.SubjectName + " Subject Code: " + this.SubjectCode);
+            return ("Name:" + this.Name + " Class and Section:" + this.ClassAndSection+ " Subject Name: " + this.SubjectName+ " Subject Code: " +this.SubjectCode);
         }
 
 

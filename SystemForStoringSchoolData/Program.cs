@@ -7,7 +7,7 @@ namespace SystemForStoringSchoolData
         static void Main(string[] args)
         {
             System.Do();
-
+            
         }
     }
 }
